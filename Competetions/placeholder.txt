@@ -1,1 +1,12 @@
 This folder stores competition certificates
+
+# Saras AI Hackathon
+
+Secured 3rd place in Clash of Titans Hackathon
+Responsible for data annotation, synthetic data
+generation, and AI model training
+Contributed to improving model accuracy through
+dataset preparation
+
+# EUREKA road to enterprise 2024
+Participated in EUREKA 2024 conducted by E-CELL IIT Bombay and got selected as a Zonalist and presented my idea to the panelists.
